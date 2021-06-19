@@ -12,7 +12,7 @@ There are two types of users in this app such as client and salesperson. Salespe
 ## Screenshots of APP
 ### Home && Login && Register Page
 <p align="center">
-  <img src="ss/MainPage.png" width="400" title="ss1">
+  <img src="/ss/MainPage.png" width="400" title="ss1">
   <img src="ss/SignInPage.png" width="400" title="ss2">
   <img src="ss/SignUpPage.png" width="400" title="ss3">
 </p>
