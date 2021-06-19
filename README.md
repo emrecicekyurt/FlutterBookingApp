@@ -14,7 +14,7 @@ There are two types of users in this app such as client and salesperson. Salespe
 <p align="center">
   <img src="ss/MainPage.PNG" width="400" title="ss1">
   <img src="ss/SignInPage.PNG" width="400" title="ss2">
-  <img src="ss/SignUpPage.PNG" width="400" title="ss3">
+  <img src="ss/SignupPage.PNG" width="400" title="ss3">
 </p>
 
 
