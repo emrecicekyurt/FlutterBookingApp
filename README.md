@@ -12,27 +12,27 @@ There are two types of users in this app such as client and salesperson. Salespe
 ## Screenshots of APP
 ### Home && Login && Register Page
 <p align="center">
-  <img src="ss/MainPage.png" width="400" title="ss1">
-  <img src="ss/SignInPage.png" width="400" title="ss2">
-  <img src="ss/SignUpPage.png" width="400" title="ss3">
+  <img src="ss/MainPage.PNG" width="400" title="ss1">
+  <img src="ss/SignInPage.PNG" width="400" title="ss2">
+  <img src="ss/SignUpPage.PNG" width="400" title="ss3">
 </p>
 
 
 ### Store Page for Clients && Update Page for Salesperson
 <p align="center">
-  <img src="ss/StorePage.png" width="400" title="ss4">
-  <img src="ss/UpdateMainPage.png" width="400" title="ss5">  
+  <img src="ss/StorePage.PNG" width="400" title="ss4">
+  <img src="ss/UpdateMainPage.PNG" width="400" title="ss5">  
 </p>
 
 ### Products of A Store && Product Page for Client && Product Update Page for Salesperson
 <p align="center">
-  <img src="ss/ProductsofStorePage.png" width="400" title="ss6">
-  <img src="ss/ProductPage.png" width="400" title="ss7">
-  <img src="ss/UpdateProduct.png" width="400" title="ss8">
+  <img src="ss/ProductsofStorePage.PNG" width="400" title="ss6">
+  <img src="ss/ProductPage.PNG" width="400" title="ss7">
+  <img src="ss/UpdateProduct.PNG" width="400" title="ss8">
 </p>
 
 ### Supplier Info Dialog and Profile Page for Client example
 <p align="center">
-  <img src="ss/SupplierInformation.png" width="400" title="ss9">
-  <img src="ss/ProfilePageEmployee.png" width="400" title="ss10">  
+  <img src="ss/SupplierInformation.PNG" width="400" title="ss9">
+  <img src="ss/ProfilePageEmployee.PNG" width="400" title="ss10">  
 </p>
